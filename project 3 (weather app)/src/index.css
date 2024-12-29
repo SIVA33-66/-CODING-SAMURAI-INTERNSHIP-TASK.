@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: rgb(137, 196, 215);
+  background-image: url(./assets/background.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
